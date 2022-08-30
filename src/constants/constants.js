@@ -38,6 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2022, text: 'Started my journey', },
-  { year: 2023, text: 'To be determinded', },
+  { month: "March-April", year: 2022, text: 'Completed Front-End UI Framework, Bootstrap.', },
+  { month: "May-June", year: 2022, text: 'Completed Front-End JavaScript React.', },
+  { month: "June-July", year: 2022, text: 'Completed Mobile App Development with React Native.', },
+  { month: "July-August", year: 2022, text: 'Completed Server-side Development with NodeJS, Express and MongoDB.', },
 ];
