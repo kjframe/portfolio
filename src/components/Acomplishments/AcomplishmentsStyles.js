@@ -64,7 +64,6 @@ export const BoxNum = styled.h5`
     line-height: 26px;
 }
 `
-
 export const BoxText = styled.p`
   font-style: normal;
   font-weight: normal;
