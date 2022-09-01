@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Using this website to showcase some of the work that has been constructed during my time as a student of Nucamps Full Stack Web and Mobile Development.
       </SectionText>
-      <Button onClick={() => window.location ="https://drive.google.com/file/d/1u4u3YpuxcyuV-8b_6E6kB_oMMH5VUQS1/view?usp=sharing"}>Learn More</Button>
+      <Button onClick={() => window.location ="https://drive.google.com/file/d/1u4u3YpuxcyuV-8b_6E6kB_oMMH5VUQS1/view?usp=sharing"}>Resume</Button>
     </LeftSection>
   </Section>
 );

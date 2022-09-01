@@ -9,8 +9,8 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href= "tel: 901-831-6201">901-831-6201</LinkItem>
+          <LinkTitle>Phone</LinkTitle>
+          <LinkItem href= "tel: 901-831-6201">Click here to give <br /> me a call!</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -19,7 +19,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Ready To Learn</Slogan>
+          <Slogan>Ready To Improve and Learn</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/kjframe">

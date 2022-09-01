@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link href='/'>
         <a style={{ display:"flex", alightItems: "center", color: "white", marginBottom: "20px" }}>
-          <Span>Kyle Frame</Span>
+          <Span>Kyle <br /> Frame</Span>
         </a>
       </Link>
     </Div1>
